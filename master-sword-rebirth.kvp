@@ -87,4 +87,4 @@ Meta.OS=1
 Meta.Prerequsites=[]
 Meta.SpecificDockerImage=
 Meta.URL=
-availablePortOptions=Custom Port,Steam Query Port,RCON Port
+availablePortOptions=Custom Port,Main Game Port,Steam Query Port,RCON Port

@@ -1,9 +1,1 @@
-[
-    {
-        "Protocol": "Both",
-        "Port": "27015",
-        "Name": "Main Game Port",
-        "Description": "Main game port",
-        "Ref": "MainGamePort"
-    }
-]
+[]
