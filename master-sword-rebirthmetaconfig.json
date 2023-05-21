@@ -1,7 +1,7 @@
 [
     {
         "ConfigFile": "msr/server.cfg",
-        "ConfigType": "json",
+        "ConfigType": "other",
         "AutoMap": false
     }
 ]
